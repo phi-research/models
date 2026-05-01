@@ -1,0 +1,20 @@
+# Core
+numpy>=1.22
+matplotlib>=3.5
+scikit-image>=0.19
+scikit-learn>=1.1
+tqdm>=4.64
+
+# PyTorch
+torch>=2.0
+torchvision>=0.15
+
+# Graph neural networks
+torch-geometric>=2.3
+# torch-scatter, torch-sparse, torch-cluster, torch-spline-conv must
+# be installed from the PyG wheel index that matches your torch +
+# CUDA build — see the README.
+
+# Notebook environment
+jupyter>=1.0
+ipykernel>=6.0
