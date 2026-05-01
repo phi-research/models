@@ -134,7 +134,7 @@ If you use this code or build on this work, please cite the corresponding paper.
   title   = {Multivariate LSTM for Malaria Incidence Forecasting using Earth-Observation Indicators in South Asia},
   author  = {Planetary Health Informatics Lab, University of Oxford},
   year    = {2026},
-  note    = {Code: https://github.com/phi-research/papers/tree/main/M-LSTM}
+  note    = {Code: https://github.com/phi-research/models/tree/main/M-LSTM}
 }
 ```
 
@@ -146,7 +146,7 @@ If you use this code or build on this work, please cite the corresponding paper.
 - **Head of Lab:** [Dr Sara Khalid](https://www.ndorms.ox.ac.uk/team/sara-khalid)
 - **Email:** orms1036@ox.ac.uk
 
-For data access requests or reproducibility questions, please open an issue on the [papers repository](https://github.com/phi-research/papers).
+For data access requests or reproducibility questions, please open an issue on the [models repository](https://github.com/phi-research/models).
 
 ---
 

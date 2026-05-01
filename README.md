@@ -1,6 +1,6 @@
-# Papers — Oxford Planetary Health Informatics Lab
+# Models — Oxford Planetary Health Informatics Lab
 
-> _Code accompanying PHI Lab publications._
+> _Model code accompanying PHI Lab publications._
 
 Code, data references, and reproducibility materials accompanying peer-reviewed and pre-print publications from the **Oxford Planetary Health Informatics Lab (PHI Lab)**.
 
@@ -19,20 +19,20 @@ The lab develops open, reproducible, and policy-relevant computational tools to 
 ## Repository Structure
 
 ```
-papers/
-├── <paper-short-name>/        # One folder per paper
-│   ├── README.md              # Paper-specific overview, citation, reproduction steps
+models/
+├── <model-short-name>/        # One folder per model / paper
+│   ├── README.md              # Model overview, citation, reproduction steps
 │   ├── data/                  # Data references (raw data is not tracked)
 │   ├── src/ or notebooks/     # Analysis code
 │   └── figures/               # Output figures
 └── README.md                  # You are here
 ```
 
-Each paper folder follows the same template so results can be reproduced consistently.
+Each model folder follows the same template so results can be reproduced consistently.
 
 ---
 
-## Index of Papers
+## Index of Models
 
 | Year | Title | Folder | Status |
 |------|-------|--------|--------|
@@ -51,8 +51,8 @@ Each paper folder follows the same template so results can be reproduced consist
 ## Reproducing a Paper
 
 ```bash
-git clone https://github.com/phi-research/papers.git
-cd papers/<paper-short-name>
+git clone https://github.com/phi-research/models.git
+cd models/<model-short-name>
 # Follow the local README.md for environment setup and run instructions
 ```
 

@@ -90,7 +90,7 @@ This work is part of the lab's brick-kiln detection programme (Tiny-Inception-Re
   title  = {STAG-NN-BA: Spatio-Temporal Attention Graph Neural Networks for Brick Kilns in Asia},
   author = {Planetary Health Informatics Lab, University of Oxford},
   year   = {2026},
-  note   = {Code: https://github.com/phi-research/papers/tree/main/STAG-NN-BA}
+  note   = {Code: https://github.com/phi-research/models/tree/main/STAG-NN-BA}
 }
 ```
 
