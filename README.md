@@ -48,6 +48,22 @@ Each model folder follows the same template so results can be reproduced consist
 
 ---
 
+## Publications
+
+Lab publications associated with the models in this repository (and other recent PHI Lab outputs). Format: **Venue** — short title — link.
+
+- **NeurIPS 2024** — [https://neurips.cc/virtual/2023/76934](https://neurips.cc/virtual/2023/76934)
+- **NeurIPS 2026** — [https://neurips.cc/virtual/2025/loc/san-diego/126910](https://neurips.cc/virtual/2025/loc/san-diego/126910)
+- **Lancet** — [https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(24)00082-2/fulltext](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(24)00082-2/fulltext)
+- **LLM** — [https://link.springer.com/article/10.1186/s12911-026-03366-8](https://link.springer.com/article/10.1186/s12911-026-03366-8)
+- **IGARSS 2025** — Malaria Prediction — [https://ieeexplore.ieee.org/abstract/document/11244048](https://ieeexplore.ieee.org/abstract/document/11244048)
+- **ScienceDirect** — [https://www.sciencedirect.com/science/article/pii/S0169260721004685](https://www.sciencedirect.com/science/article/pii/S0169260721004685)
+- **CVPRw** — Tiny-Inception-ResNet — [https://openaccess.thecvf.com/content_CVPRW_2019/papers/cv4gc/Nazir_Tiny-Inception-ResNet-v2_Using_Deep_Learning_for_Eliminating_Bonded_Labors_of_Brick_Kilns_in_South_Asia_CVPRW_2019_paper.pdf](https://openaccess.thecvf.com/content_CVPRW_2019/papers/cv4gc/Nazir_Tiny-Inception-ResNet-v2_Using_Deep_Learning_for_Eliminating_Bonded_Labors_of_Brick_Kilns_in_South_Asia_CVPRW_2019_paper.pdf)
+- **JSTARS — Kiln-Net** — [https://ieeexplore.ieee.org/document/9115879/](https://ieeexplore.ieee.org/document/9115879/)
+- **AAAI Symposium — STAG-NN-BA** — [https://arxiv.org/abs/2303.14322](https://arxiv.org/abs/2303.14322)
+
+---
+
 ## Reproducing a Paper
 
 ```bash
