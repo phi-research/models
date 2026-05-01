@@ -63,7 +63,7 @@ If you use code from this repository, please cite the corresponding paper. Citat
 - **Lab:** [Planetary Health Informatics Lab](https://www.ndorms.ox.ac.uk/research/research-groups/planetary-health-informatics-1), NDORMS, University of Oxford
 - **Head of Lab:** [Dr Sara Khalid](https://www.ndorms.ox.ac.uk/team/sara-khalid)
 - **GitHub:** [@phi-research](https://github.com/phi-research)
-- **Email:** oxfordphi@gmail.com
+- **Email:** orms1036@ox.ac.uk
 
 For data access requests, collaborations, or questions about specific papers, please open an issue or contact the lab directly.
 
