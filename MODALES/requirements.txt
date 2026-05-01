@@ -1,0 +1,11 @@
+# MODALES is a MATLAB / GNU Octave project — no Python dependencies.
+#
+# Tested with:
+#   - GNU Octave >= 5.2  (free, recommended)
+#   - MATLAB    >= R2018b
+#
+# Octave package requirements:
+#   - none (only base + the `csvread` builtin)
+#
+# To run:
+#   octave --no-gui NOxLowDiagUppDiag.m
