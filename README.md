@@ -41,7 +41,7 @@ Each model folder follows the same template so results can be reproduced consist
 | 2021 | Survey of Image-Based Graph Neural Networks (companion demo: MNIST superpixels → GCN / SplineConv) | [`MNIST_Superpixel_GCN/`](MNIST_Superpixel_GCN) | Demo released |
 | 2020 | Kiln-Net — A Gated Neural Network for Detection of Brick Kilns in South Asia ([IEEE J-STARS](https://ieeexplore.ieee.org/document/9115879)) | [`KilnNet/`](KilnNet) | Code released |
 | 2020 | MODALES — NOx emission cost comparison (simulator vs. mathematical model) for the EU H2020 MODALES project | [`MODALES/`](MODALES) | Code released |
-| 2019 | Tiny-Inception-ResNet-v2 — Using Deep Learning for Eliminating Bonded Labors of Brick Kilns in South Asia ([arXiv:1907.05552](https://arxiv.org/abs/1907.05552)) | [`Tiny-Inception-ResNet-v2/`](Tiny-Inception-ResNet-v2) | Code released |
+| 2019 | Tiny-Inception-ResNet-v2 — Using Deep Learning for Eliminating Bonded Labors of Brick Kilns in South Asia ([https://arxiv.org/abs/1907.05552](https://arxiv.org/abs/1907.05552)) | Code released |
 | 2019 | Using 3D Residual Network for Spatio-temporal Analysis of Remote Sensing Data ([ICASSP](https://ieeexplore.ieee.org/document/8682286)) | [`3dResidualNetwork/`](3dResidualNetwork) | Code released |
 
 > More papers will be added here as they are released.
