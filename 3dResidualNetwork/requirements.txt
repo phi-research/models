@@ -1,0 +1,21 @@
+# Deep learning
+tensorflow>=2.10
+keras>=2.10
+
+# Scientific stack
+numpy>=1.22
+pandas>=1.4
+scikit-learn>=1.1
+matplotlib>=3.5
+pillow>=9.0
+opencv-python>=4.6
+
+# Geospatial / raster I/O
+rasterio>=1.3
+gdal>=3.4
+
+# Notebook environment
+jupyter>=1.0
+ipykernel>=6.0
+ipywidgets>=8.0
+tqdm>=4.64
