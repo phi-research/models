@@ -1,0 +1,9 @@
+# India_reframed.csv is ~175 MB and exceeds GitHub's 100 MB single-file
+# limit. It can be regenerated from DataPrep.ipynb (see README.md) or
+# fetched via Git LFS / Zenodo if you need the prebuilt copy.
+data/reshaped_data/India_reframed.csv
+
+# Model artifacts produced by M_LSTM.ipynb at training time
+params/
+Graphs/
+Model_log.csv

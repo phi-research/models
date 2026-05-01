@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+.venv
+*.egg-info/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Data — by default we don't track loose data files at the paper root.
+# Each paper folder may opt in to tracking its own data via its local .gitignore.
+*.tsv
+*.parquet
+*.h5
+*.hdf5
+*.nc
+*.tif
+*.tiff
+*.geotiff
+*.shp
+*.shx
+*.dbf
+*.zip
+*.tar
+*.tar.gz
+raw_data/
+processed_data/
+
+# Outputs
+*.pdf
+*.png
+*.jpg
+*.svg
+figures/
+output/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets
+.env.local
+*.pem
+*.key
+credentials.json
+secrets.yml
